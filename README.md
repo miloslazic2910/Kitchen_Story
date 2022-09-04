@@ -1,8 +1,8 @@
 # Phase4Project-KitchenStory
 App Name - KitchenStory.com V1.0.1\
 Buying food items made smooth. Use the app to burn your hunger. Add items, remove items and much more !!\
-Developer Name: Aakash Patel\
-Email: Aksh.2102@gmail.com
+Developer Name: Milos Lazic
+
 
 ## Available Scripts
 
